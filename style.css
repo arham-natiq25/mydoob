@@ -1,0 +1,68 @@
+#header .col-7 {
+    /* overflow: hidden; */
+}
+
+.picture {
+    width: 100%;
+}
+
+#main .row {
+    background-image: url('first.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+
+
+}
+
+.blue {
+    color: #314584;
+}
+
+.twenty {
+    padding-top: 80px;
+}
+
+.ten {
+
+    padding-bottom: 80px;
+}
+
+.brd {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.one {
+    box-shadow: 3px 3px black;
+}
+
+.pad {
+    padding: 40px 0;
+}
+
+#blogs .card {
+    border-radius: 0%;
+    cursor: pointer;
+}
+
+.white {
+    background-color: #fff;
+}
+
+#blogs .card:hover {
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+}
+
+.wido {
+    background: #f4fafe;
+    border-radius: 0%;
+    border: none;
+    resize: none;
+}
+
+#footer .container-fluid {
+    background-color: #314584;
+}
